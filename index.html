@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emmelin Larina | Portfolio</title>
+    <meta name="description" content="Portfolio">
+
+    <script src="https://kit.fontawesome.com/e0e8f3b90b.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+
+    <header class="topbar container">
+        <strong>EMMELIN</strong>
+        <nav aria-label="Quick Actions">
+            <a href="#work" class="ghost">Work</a>
+            <a href="#about" class="ghost">About</a>
+            <a href="#contact" class="ghost">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="hero container" id="about">
+            <div class="hero-name">
+                <h1>EMMELIN<br />LARINA</h1>
+                <a href="hello.emmelin@gmail.com" class="email">hello.emmelin@gmail.com</a>
+            </div>
+
+            <div class="hero-intro">
+                <img class="avatar" src="images/462557973_444143498697413_1880987636371460822_n.jpg"
+                    alt="Portrait of Emmelin">
+                <p>
+                    Frontend student with a 3D art background. I care about fun designs, clean code and learning. Always
+                    experimenting with design ideas & technologies. Based in Norway.
+                </p>
+            </div>
+        </section>
+
+        <section class="work container" id="work">
+            <div class="work-title">
+                <h2>work!</h2>
+                <a href="#contact" class="ghost">Show more</a>
+            </div>
+
+            <div class="grid">
+                <article class="card">
+                    <a href="https://emmelinlarina.github.io/semester_project_1/" target="_blank" rel="noopener">
+                        <img src="images/explorium.png" alt="Explorium Science Museum website">
+                    </a>
+                    <div class="card-body">
+                        <h3>Explorium Science Museum</h3>
+                        <p>SPA-ish static site with **HTML/CSS only**. Focus on accessibility, responsive layout, and
+                            DRY CSS refactor</p>
+                        <div class="links">
+                            <a href="https://emmelinlarina.github.io/semester_project_1/" target="_blank"
+                                rel="noopener">Live</a>
+                            <a href="https://github.com/emmelinlarina/semester_project_1" target="_blank"
+                                rel="noopener">Repo</a>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="card">
+                    <a href="https://emmelinlarina.github.io/game-hub" target="_blank" rel="noopener">
+                        <img src="images/Gamehub.png" alt="GameHub website">
+                    </a>
+                    <div class="card-body">
+                        <h3>GameHub</h3>
+                        <p>API-driven store in vanilla JS: product list, filters, cart, checkout + confirmation.
+                            LocalStorage for persistence.</p>
+                        <div class="links">
+                            <a href="https://emmelinlarina.github.io/game-hub" target="_blank" rel="noopener">Live</a>
+                            <a href="https://github.com/emmelinlarina/game-hub" target="_blank" rel="noopener">Repo</a>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="card">
+                    <a href="https://emmelinlarina.github.io/nova-cart" target="_blank" rel="noopener">
+                        <img src="images/NovaCart.png" alt="NovaCart website">
+                    </a>
+                    <div class="card-body">
+                        <h3>NovaCart</h3>
+                        <p>API-driven store in vanilla JS: carousel, tags, cart, login, register, discounts, checkout +
+                            confirmation.
+                        </p>
+                        <div class="links">
+                            <a href="https://emmelinlarina.github.io/nova-cart" target="_blank" rel="noopener">Live</a>
+                            <a href="https://github.com/emmelinlarina/nova-cart" target="_blank" rel="noopener">Repo</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section class="contact container" id="contact">
+            <h2>contact!</h2>
+            <p>Open for feedback, cool ideas and more!</p>
+            <ul class="list">
+                <li><a href="hello.emmelin@gmail.com">hello.emmelin@gmail.com</a></li>
+                <li><a href="https://github.com/emmelinlarina"></a>GitHub</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="container foot">
+        <span id="year"></span> Emmelin Larina - Built with HTML and CSS
+    </footer>
+
+    <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+
+</body>
+
+</html>
