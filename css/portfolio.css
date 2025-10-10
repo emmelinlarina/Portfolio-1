@@ -30,7 +30,7 @@
 .hero-intro { display: grid; grid-template-columns: auto 1fr; gap: 1rem 1.25rem; align-items: start; }
 
 .avatar {
-  width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  width: 140px; height: 140px; border-radius: 50%; object-fit: cover; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,.08);
 }
 
 .hero-intro p { grid-column: 1 / -1; margin: 0; font-size: clamp(1rem, 2.2vw, 1.15rem); }
