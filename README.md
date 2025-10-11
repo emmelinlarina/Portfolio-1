@@ -8,7 +8,7 @@ The site features a clean, minimal design that focuses on accessibility, structu
 
 ---
 
-## 🪄 About the Project
+## About the Project
 
 This portfolio was created as part of **Portfolio 1** at Noroff – Front-End Development.  
 It serves as a central hub to present my projects and documents, while keeping the design lightweight and easy to expand in the future.
