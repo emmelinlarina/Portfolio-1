@@ -3,8 +3,8 @@
 A personal front-end development portfolio built to showcase my school projects, technical growth, and creative side.  
 The site features a clean, minimal design that focuses on accessibility, structure, and responsive layout.
 
-🔗 [Live Site](https://emmelinlarina.github.io/Portfolio-1/)  
-💻 [GitHub Repository](https://github.com/emmelinlarina/Portfolio-1)
+[Live Site](https://emmelinlarina.github.io/Portfolio-1/)  
+[GitHub Repository](https://github.com/emmelinlarina/Portfolio-1)
 
 ---
 
@@ -21,7 +21,7 @@ It serves as a central hub to present my projects and documents, while keeping t
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -30,7 +30,7 @@ It serves as a central hub to present my projects and documents, while keeping t
 
 ---
 
-## 🎨 Design Goals
+## Design Goals
 
 - Clean and minimal layout with soft spacing and readable typography.
 - Consistent visual hierarchy and responsive design.
