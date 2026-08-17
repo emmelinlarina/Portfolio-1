@@ -16,7 +16,7 @@ It serves as a central hub to present my projects and documents, while keeping t
 **Sections included:**
 
 - **About Me:** Short introduction and contact details.
-- **Work:** A grid of my main projects — _Explorium Science Museum_, _GameHub_, and _NovaCart_.
+- **Work:** A grid of my main projects — _Aution House_, _Social Media App_, _Explorium Science Museum_, _GameHub_, and _NovaCart_.
 - **Contact:** Links to GitHub, LinkedIn, and downloadable documents (CV & Cover Letter).
 
 ---
